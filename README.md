@@ -11,7 +11,10 @@ GenAI Code Reviewer is an AI-powered tool designed to help developers improve th
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/your-username/your-repository-name/main/path-to-your-image/image1.png)
+
+
+
 
 ## Requirements
 
@@ -50,8 +53,16 @@ Follow these steps to set up the project locally:
 3. **View Review History**: You can also view past reviews by clicking the **Show Review History** button.
 4. **Connect with Me**: Access my LinkedIn and GitHub profiles via the sidebar to learn more about my work and get in touch.
 
-## API Key
-
 This project requires a valid API key for the Google Gemini AI model. You can configure your API key in the code:
 ```python
 genai.configure(api_key="your-api-key")
+```
+## Contact
+
+For more information, feel free to contact me through the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/kadir-ayyappan2005/)
+- [GitHub](https://github.com/Kadirayyappan)
+
+---
+
