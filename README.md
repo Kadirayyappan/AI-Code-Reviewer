@@ -11,7 +11,7 @@ GenAI Code Reviewer is an AI-powered tool designed to help developers improve th
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/your-username/your-repository-name/main/path-to-your-image/image1.png)
+![App Screenshot](https://github.com/Kadirayyappan/AI-Code-Reviewer/blob/main/Images/image1.png?raw=true)
 
 
 
